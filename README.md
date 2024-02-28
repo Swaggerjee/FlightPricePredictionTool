@@ -37,7 +37,7 @@ The dataset includes information on:
 4. Follow the instructions within the notebook to use the predictive models and application.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Kaggle, for providing the “Flight Price Prediction” dataset.
