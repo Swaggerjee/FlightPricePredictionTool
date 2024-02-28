@@ -36,9 +36,6 @@ The dataset includes information on:
 3. Run the cells in the main Jupyter notebook (`airData.ipynb`) to explore the dataset, model development, and optimization.
 4. Follow the instructions within the notebook to use the predictive models and application.
 
-## Contributing
-We welcome contributions from the community, whether it's improving the prediction model, enhancing the data analysis, or suggesting new features for the application. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
