@@ -24,14 +24,14 @@ The dataset includes information on:
 - **IPyWidgets**: For creating a simple user interface to test the models like a real flight price prediction tool
 
 ## Project Workflow
-1. **Process 0, Setup**: Initial configuration, including library imports and dataset loading.
-2. **Process 1, Data cleaning**: Cleaning the dataset to ensure accuracy for analysis.
-3. **Process 2, Descriptive statistics**: Conducting statistical analysis to summarize the dataset's characteristics.
-4. **Process 3, Data visualization and notes**: Visualizing the data to identify patterns and noting key observations.
-5. **Process 4, Building the models**: Developing models to predict flight prices.
-6. **Process 5, Testing and improving the models**: Evaluating and refining model performance.
-7. **Process 6, (extra, unfinished): Using GridSearch to optimize**: Optimizing model parameters for better accuracy.
-8. **Process 7, Interface integration**: Creating a simple user interface so users can adjust flight-related factors and get a price prediction.
+0. **Setup**: Initial configuration, including library imports and dataset loading.
+1. **Data cleaning**: Cleaning the dataset to ensure accuracy for analysis.
+2. **Descriptive statistics**: Conducting statistical analysis to summarize the dataset's characteristics.
+3. **Data visualization and notes**: Visualizing the data to identify patterns and noting key observations.
+4. **Building the models**: Developing models to predict flight prices.
+5. **Testing and improving the models**: Evaluating and refining model performance.
+6. **(Extra, unfinished) Using GridSearch to optimize**: Optimizing model parameters for better accuracy.
+7. **Interface integration**: Creating a simple user interface so users can adjust flight-related factors and get a price prediction.
 
 ## How to Use
 1. Clone this repository.
