@@ -1,7 +1,7 @@
 # Flight Price Prediction Tool
 
 ## Overview
-This project aims to increase transparency in flight pricing and help consumers make informed decisions when booking flights. By analyzing the “Flight Price Prediction” dataset from Kaggle, collected via the octoparse tool from the “Ease My Trip” website between February 11, 2022, and March 31, 2022, we developed models that can be used to predict flight prices. Our analysis covers 300,261 distinct flight bookings, including details such as airline, flight code, departure and arrival cities, times, class, duration, and days until the flight. Our goal is to demystify flight pricing, aiding travelers in finding affordable prices and boosting their confidence in travel planning.
+This project aims to increase transparency in flight pricing and help consumers make informed decisions when booking flights. By analyzing the [Flight Price Prediction dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction) posted by Shubham Bathwal on Kaggle, collected via the octoparse tool from the “Ease My Trip” website between February 11, 2022, and March 31, 2022, we developed models that can be used to predict flight prices. Our analysis covers 300,261 distinct flight bookings, including details such as airline, flight code, departure and arrival cities, times, class, duration, and days until the flight. Our goal is to demystify flight pricing, aiding travelers in finding affordable prices and boosting their confidence in travel planning.
 
 ## Dataset
 The dataset includes information on:
@@ -40,7 +40,7 @@ The dataset includes information on:
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Kaggle, for providing the “Flight Price Prediction” dataset.
+- Shubham Bathwal on Kaggle, for providing the “Flight Price Prediction” dataset.
 - The developers of the tools and libraries we used.
 
 ## Contact
