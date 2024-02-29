@@ -40,7 +40,7 @@ The dataset includes information on:
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Kaggle, for providing the “Flight Price Prediction” dataset.
+- Shubham Bathwal on Kaggle, for providing the “Flight Price Prediction” dataset.
 - The developers of the tools and libraries we used.
 
 ## Contact
