@@ -19,7 +19,7 @@ The dataset includes information on:
 - **Python**: For all backend operations and data analysis.
 - **Pandas and NumPy**: For data manipulation and numerical analysis.
 - **Matplotlib**: For data visualization. We considered Seaborn as well, but did not have time to fully utilize it.
-- **Scikit-learn**: For developing LinearRegression and Random Forest Regressor predictive models.
+- **Scikit-learn**: For developing LinearRegression and Random Forest Regressor predictive models. We also installed TensorFlow and PyTorch but decided to stick with Scikit-learn in the end.
 - **XGBoost**: For developing an XGBoost predictive model.
 - **IPyWidgets**: For creating a simple user interface to test the models like a real flight price prediction tool
 
